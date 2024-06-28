@@ -33,12 +33,12 @@
 		 <version>3.0.0-M5</version>
 		 </dependency>
 <!-- 		https://mvnrepository.com/artifact/org.testng/testng -->
-<!-- 		<dependency>
+		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.1.0</version>
 			<scope>test</scope>
-		</dependency> -->
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
 		<dependency>
 		    <groupId>org.sonarsource.scanner.maven</groupId>
