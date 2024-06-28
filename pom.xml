@@ -32,7 +32,7 @@
 		 <artifactId>surefire-junit47</artifactId>
 		 <version>3.0.0-M5</version>
 		 </dependency>
-<!-- 		https://mvnrepository.com/artifact/org.testng/testng -->
+		https://mvnrepository.com/artifact/org.testng/testng
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
